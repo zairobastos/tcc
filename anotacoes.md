@@ -1,10 +1,9 @@
 ### Tarefas
 
-* [ ] Verificar os picos quando comeca
-* [ ] Transformmers
-* [ ] 2 meses para base de dados
+* [X] Verificar os picos quando comeca
+* [X] Transformmers
+* [X] 2 meses para base de dados
 * [ ] Adicionar mais informacoes: Quais os dias da semana e 0 - 1 feriado.
-
 
 ### Link importantes
 
